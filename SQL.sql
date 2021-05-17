@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `user_inventory2` (
+CREATE TABLE IF NOT EXISTS `ronin_inventory` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `item_id` varchar(255) CHARACTER SET utf8 DEFAULT NULL,
   `name` varchar(255) CHARACTER SET utf8 NOT NULL DEFAULT '0',
